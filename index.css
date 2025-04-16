@@ -1,0 +1,35 @@
+/* Algemene opmaak */
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f5f5f5;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+/* Container met wat ruimte */
+.container {
+  max-width: 800px;
+  margin: 50px auto;
+  background-color: white;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Koppen */
+h1 {
+  color: #2a9d8f;
+  text-align: center;
+}
+
+h2 {
+  color: #264653;
+  margin-top: 30px;
+}
+
+/* Paragrafen */
+p {
+  font-size: 1rem;
+  line-height: 1.6;
+}
